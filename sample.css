@@ -1,1 +1,6 @@
-
+.maintext {
+background-color: pink;
+border-radius: 25px;
+border-width: 3px;
+border-style: dotted;
+}
